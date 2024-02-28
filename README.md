@@ -44,3 +44,114 @@ print("Maior valor de faturamento diário:", maior)  # Imprime o maior valor de 
 print("Número de dias com faturamento acima da média:", dias_acima_da_media)  # Imprime o número de dias com faturamento acima da média
 
 
+```JSON
+{
+    "faturamento_mensal": [
+      {
+        "mês": 1,
+        "dia": 1,
+        "ano": 2023,
+        "faturamento": 1500,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 2,
+        "ano": 2023,
+        "faturamento": 2200,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 3,
+        "ano": 2023,
+        "faturamento": 1800,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 4,
+        "ano": 2023,
+        "faturamento": 3200,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 5,
+        "ano": 2023,
+        "faturamento": 2800,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 6,
+        "ano": 2023,
+        "faturamento": 4000,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 7,
+        "ano": 2023,
+        "faturamento": 0,
+        "dia_util": false
+      },
+      {
+        "mês": 1,
+        "dia": 8,
+        "ano": 2023,
+        "faturamento": 0,
+        "dia_util": false
+      },
+      {
+        "mês": 1,
+        "dia": 9,
+        "ano": 2023,
+        "faturamento": 3500,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 10,
+        "ano": 2023,
+        "faturamento": 3900,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 11,
+        "ano": 2023,
+        "faturamento": 2600,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 12,
+        "ano": 2023,
+        "faturamento": 2900,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 13,
+        "ano": 2023,
+        "faturamento": 2300,
+        "dia_util": true
+      },
+      {
+        "mês": 1,
+        "dia": 14,
+        "ano": 2023,
+        "faturamento": 0,
+        "dia_util": false
+      },
+      {
+        "mês": 1,
+        "dia": 15,
+        "ano": 2023,
+        "faturamento": 0,
+        "dia_util": false
+      }
+    ]
+  }
+  
