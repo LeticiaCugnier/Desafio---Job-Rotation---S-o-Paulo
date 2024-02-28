@@ -1,2 +1,2 @@
-# Desafio---Job-Rotation---S-o-Paulo
+# Desafio
 Teste Job Rotation - São Paulo
